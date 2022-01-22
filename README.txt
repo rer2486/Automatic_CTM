@@ -15,3 +15,5 @@ If you are going to upload this anywhere please credit me(rer2) I spent a lot of
 rer2#2486 for support
 
 <3
+
+*You do you have to install python 3 to run this since it is not an EXE file
